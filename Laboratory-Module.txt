@@ -1,14 +1,3 @@
-Affected Configuration Items:
-
-Patient Module
-Appointment Module
-User Manual
-
-Estimated Risk:
-Medium
-
-Testing Required:
-Yes
-
-Documentation Update Required:
-Yes
+Laboratory Module
+Version: 1.0
+Status: Approved Baseline
